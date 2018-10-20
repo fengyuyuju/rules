@@ -6,3 +6,4 @@ USER-AGENT,com.apple.appstored*
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,xp.apple.com
 DOMAIN-SUFFIX,store.apple.com
+DOMAIN-SUFFIX,plex.tv
