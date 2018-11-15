@@ -1,9 +1,4 @@
 PROCESS-NAME,/Applications/TeamViewer.app/Contents/MacOS/TeamViewer_Service
 PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server
 PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent
-PROCESS-NAME,storedownloadd
-USER-AGENT,com.apple.appstored*
-DOMAIN,iosapps.itunes.apple.com
-DOMAIN,xp.apple.com
-DOMAIN-SUFFIX,store.apple.com
 DOMAIN-SUFFIX,plex.tv
