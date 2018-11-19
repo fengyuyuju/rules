@@ -1,4 +1,4 @@
-PROCESS-NAME,/Applications/TeamViewer.app/Contents/MacOS/TeamViewer_Service
-PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server
-PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent
+PROCESS-NAME,*TeamViewer*
+PROCESS-NAME,*Plex*
+PROCESS-NAME,*qbittorrent*
 DOMAIN-SUFFIX,plex.tv
