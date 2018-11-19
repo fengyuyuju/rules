@@ -2,3 +2,4 @@ PROCESS-NAME,*TeamViewer*
 PROCESS-NAME,*Plex*
 PROCESS-NAME,*qbittorrent*
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,teamviewer.com
