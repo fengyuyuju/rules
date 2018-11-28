@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,phantomjscloud.com
 DOMAIN,phantomjscloud.com
+IP-CIDR,203.208.40.79/32
