@@ -2,5 +2,5 @@ PROCESS-NAME,*TeamViewer*
 PROCESS-NAME,*aria2c*
 PROCESS-NAME,*Plex*
 PROCESS-NAME,*qbittorrent*
+PROCESS-NAME,*ShadowsocksX-NG*
 DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,teamviewer.com
